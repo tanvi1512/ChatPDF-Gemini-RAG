@@ -8,8 +8,8 @@ ChatPDF is an AI-powered document question-answering application that enables us
 
 ## Features
 
--Upload and process multiple PDF documents
--Extract and chunk PDF text automatically
+- Upload and process multiple PDF documents
+- Extract and chunk PDF text automatically
 - Semantic search using vector embeddings
 - Retrieval-Augmented Generation (RAG)
 - Context-aware question answering
